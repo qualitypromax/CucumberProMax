@@ -8,7 +8,7 @@ public class MakeMyCar {
 		OmotayoFamily headOftheFamily = new OmotayoFamily();
 		
 		
-		System.out.println(headOftheFamily.addtion(5,15));
+		System.out.println(headOftheFamily.addtion(6,15));
 		
 		
 	}
